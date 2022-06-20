@@ -1,0 +1,4 @@
+#No se subiran los archivos del entrono virtual de python
+env/
+#No se subiran las dependencias y modeulos de nodejs
+node_modules/
