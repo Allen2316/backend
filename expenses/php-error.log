@@ -2168,3 +2168,381 @@
 [28-Jun-2022 23:07:46 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
 [28-Jun-2022 23:07:46 Europe/Berlin] Login::construct -> Inicio de login
 [28-Jun-2022 23:07:46 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:22:09 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:22:09 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:22:09 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:22:09 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:22:09 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:22:09 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:22:09 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:22:32 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:22:32 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:22:32 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:22:32 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:22:32 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:22:32 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:22:32 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:22:37 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:22:37 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:22:37 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:22:37 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:22:37 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:22:37 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:22:37 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:22:45 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:22:45 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:22:45 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:22:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:22:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:22:45 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:22:45 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:22:52 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:22:52 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:22:52 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:22:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:22:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:22:52 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:22:52 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:22:58 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:22:58 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:22:58 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:22:58 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:22:58 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:22:58 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:22:58 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:00 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:00 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:00 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:00 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:00 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:00 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:03 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:03 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:03 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:03 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:03 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:03 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:03 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:04 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:04 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:04 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:04 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:04 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:04 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:04 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:18 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:18 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:18 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:18 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:18 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:18 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:18 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:21 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:21 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:21 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:21 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:21 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:21 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:21 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:33 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:33 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:33 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:33 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:33 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:33 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:33 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:40 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:40 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:40 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:40 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:40 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:40 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:40 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:44 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:44 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:44 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:44 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:44 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:46 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:46 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:46 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:46 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:46 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:46 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:46 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:47 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:47 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:47 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:47 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:47 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:23:56 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:23:56 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:23:56 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:23:56 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:23:56 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:23:56 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:23:56 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:02 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:02 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:02 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:02 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:02 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:09 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:09 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:09 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:09 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:09 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:09 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:09 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:14 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:14 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:14 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:14 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:14 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:14 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:14 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:27 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:27 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:27 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:27 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:27 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:27 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:27 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:37 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:37 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:37 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:37 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:37 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:37 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:37 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:39 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:39 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:39 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:39 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:39 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:39 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:39 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:44 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:44 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:44 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:44 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:44 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:45 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:45 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:45 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:45 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:45 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:24:54 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:24:54 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:24:54 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:24:54 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:24:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:24:54 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:24:54 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:08 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:08 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:08 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:08 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:08 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:08 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:13 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:13 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:13 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:13 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:13 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:13 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:13 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:26 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:26 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:26 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:26 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:26 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:26 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:26 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:29 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:29 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:29 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:29 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:29 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:31 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:31 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:31 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:31 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:31 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:31 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:31 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:37 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:37 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:37 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:37 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:37 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:37 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:37 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:40 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:40 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:40 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:40 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:40 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:40 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:40 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:44 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:44 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:44 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:44 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:44 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:47 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:47 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:47 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:47 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:47 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:55 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:55 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:55 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:55 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:55 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:55 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:55 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:25:59 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:25:59 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:25:59 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:25:59 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:25:59 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:25:59 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:25:59 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:26:02 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:26:02 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:26:02 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:26:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:26:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:26:02 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:26:02 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:26:05 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:26:05 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:26:05 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:26:05 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:26:05 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:26:05 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:26:05 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:26:08 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:26:08 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:26:08 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:26:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:26:08 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:26:08 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:26:08 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:26:12 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:26:12 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:26:12 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:26:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:26:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:26:12 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:26:12 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:26:16 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:26:16 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:26:16 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:26:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:26:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:26:16 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:26:16 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:26:18 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:26:18 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:26:18 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:26:18 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:26:18 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:26:18 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:26:18 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:26:28 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:26:28 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:26:28 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:26:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:26:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:26:28 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:26:28 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:27:00 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:27:00 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:27:00 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:27:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:27:00 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:27:00 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:27:00 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:27:04 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:27:04 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:27:04 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:27:04 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:27:04 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:27:04 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:27:04 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:27:29 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:27:29 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:27:29 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:27:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:27:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:27:29 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:27:29 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:27:31 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:27:31 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:27:31 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:27:31 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:27:31 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:27:31 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:27:31 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:27:42 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:27:42 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:27:42 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:27:42 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:27:42 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:27:42 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:27:42 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:27:48 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:27:48 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:27:48 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:27:48 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:27:48 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:27:48 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:27:48 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:28:02 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:28:02 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:28:02 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:28:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:28:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:28:02 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:28:02 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:28:03 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:28:03 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:28:03 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:28:03 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:28:03 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:28:03 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:28:03 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:28:04 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:28:04 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:28:04 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:28:04 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:28:04 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:28:04 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:28:04 Europe/Berlin] Login::render -> Carga el index de login
+[28-Jun-2022 23:28:54 Europe/Berlin] Inicio de aplicacion web
+[28-Jun-2022 23:28:54 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expenses\libs\app.php on line 12
+[28-Jun-2022 23:28:54 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[28-Jun-2022 23:28:54 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Jun-2022 23:28:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Jun-2022 23:28:54 Europe/Berlin] Login::construct -> Inicio de login
+[28-Jun-2022 23:28:54 Europe/Berlin] Login::render -> Carga el index de login
