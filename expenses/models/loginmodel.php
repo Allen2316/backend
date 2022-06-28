@@ -35,22 +35,27 @@ class LoginModel extends Model
         }
     }
 
-    /* function save()
+    /* public function save()
     {
     }
-    function getAll()
+    
+    public function getAll()
     {
     }
-    function get($id)
+    
+    public function get($id)
     {
     }
-    function delete($id)
+    
+    public function delete($id)
     {
     }
-    function update()
+    
+    public function update()
     {
     }
-    function from($array)
+    
+    public function from($array)
     {
     } */
 }

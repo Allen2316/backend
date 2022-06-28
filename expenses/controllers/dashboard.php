@@ -14,5 +14,12 @@ class Dashboard extends SessionController
         $this->view->render("dashboard/index");
     }
 
+    public function geExpenses()
+    {
+    }
+
+    public function getCategories()
+    {
+    }
     
 }
