@@ -127,11 +127,12 @@ class CategoriesModel extends Model implements IModel
         $this->color = $array["color"];
     }
 
-    public function exists($name){
+    public function exists($name)
+    {
         try {
             $query = $this->prepare("SELECT name FROM categories WHERE name = :name");
             $query->execute([
-                "name" => $name,                
+                "name" => $name,
             ]);
 
             if ($query->rowCount()) return true;

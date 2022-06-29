@@ -62,6 +62,8 @@ class JoinExpensesCategoriesModel extends Model
         return $array;
     }
 
+
+
     /* getters */
 
     public function getExpenseId()
@@ -110,37 +112,37 @@ class JoinExpensesCategoriesModel extends Model
     {
         $this->expenseId = $expenseId;
     }
-    
+
     public function setTitle($title)
     {
         $this->title = $title;
     }
-    
+
     public function setAmount($amount)
     {
         $this->amount = $amount;
     }
-    
+
     public function setCategoryId($categoryId)
     {
         $this->categoryId = $categoryId;
     }
-    
+
     public function setDate($date)
     {
         $this->date = $date;
     }
-    
+
     public function setUserId($userId)
     {
         $this->userId = $userId;
     }
-    
+
     public function setNameCategory($nameCategory)
     {
         $this->nameCategory = $nameCategory;
     }
-    
+
     public function setColor($color)
     {
         $this->color = $color;
