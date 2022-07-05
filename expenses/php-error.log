@@ -1,8 +1,0 @@
-[29-Jun-2022 04:26:08 Europe/Berlin] Inicio de aplicacion web
-[29-Jun-2022 04:26:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
-[29-Jun-2022 04:26:08 Europe/Berlin] Conexión a BD exitosa
-[29-Jun-2022 04:26:09 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> lena
-[29-Jun-2022 04:26:09 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
-[29-Jun-2022 04:26:09 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
-[29-Jun-2022 04:26:09 Europe/Berlin] Conexión a BD exitosa
-[29-Jun-2022 04:26:09 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> lena
